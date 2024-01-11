@@ -11,6 +11,8 @@ export default {
       },
       colors: {
         primary: "rgb(253 224 71);",
+        finalista: '#1682c7',
+        semifinalista: '#0d507a'
       },
     },
   },
